@@ -1,4 +1,4 @@
-#NERelog
+# NERelog
 Тестовое задание для компании Relog
 
 Для запуска сервера `npm run server`
